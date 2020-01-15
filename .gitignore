@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+/dist
+
+# Start macOS
+
+### macOS ###
+.DS_Store
+node_modules
